@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "incremental": true,
+    "tsBuildInfoFile": "./.tsbuildinfo",
+    "noUncheckedSideEffectImports": true,
+    // ... other compiler options ...
+  },
+  // ... other configurations ...
+} 
